@@ -1,0 +1,14 @@
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\bin\Debug\netstandard2.0\XamarinApp.BusinessLogic.deps.json
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\bin\Debug\netstandard2.0\XamarinApp.BusinessLogic.dll
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\bin\Debug\netstandard2.0\XamarinApp.BusinessLogic.pdb
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\bin\Debug\netstandard2.0\XamarinApp.DatabaseAccess.dll
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\bin\Debug\netstandard2.0\XamarinApp.Models.dll
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\bin\Debug\netstandard2.0\XamarinApp.DatabaseAccess.pdb
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\bin\Debug\netstandard2.0\XamarinApp.Models.pdb
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\obj\Debug\netstandard2.0\XamarinApp.BusinessLogic.csprojAssemblyReference.cache
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\obj\Debug\netstandard2.0\XamarinApp.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\obj\Debug\netstandard2.0\XamarinApp.BusinessLogic.AssemblyInfoInputs.cache
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\obj\Debug\netstandard2.0\XamarinApp.BusinessLogic.AssemblyInfo.cs
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\obj\Debug\netstandard2.0\XamarinApp.BusinessLogic.csproj.CopyComplete
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\obj\Debug\netstandard2.0\XamarinApp.BusinessLogic.dll
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.BusinessLogic\obj\Debug\netstandard2.0\XamarinApp.BusinessLogic.pdb

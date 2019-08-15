@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp\\XamarinApp\\XamarinApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.BusinessLogic\\XamarinApp.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.BusinessLogic\\XamarinApp.BusinessLogic.csproj",
+        "projectName": "XamarinApp.BusinessLogic",
+        "projectPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.BusinessLogic\\XamarinApp.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\320020009\\.nuget\\packages\\",
+        "outputPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\320020009\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.DatabaseAccess\\XamarinApp.DatabaseAccess.csproj": {
+                "projectPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.DatabaseAccess\\XamarinApp.DatabaseAccess.csproj"
+              },
+              "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\XamarinApp.Models.csproj": {
+                "projectPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\XamarinApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.DatabaseAccess\\XamarinApp.DatabaseAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.DatabaseAccess\\XamarinApp.DatabaseAccess.csproj",
+        "projectName": "XamarinApp.DatabaseAccess",
+        "projectPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.DatabaseAccess\\XamarinApp.DatabaseAccess.csproj",
+        "packagesPath": "C:\\Users\\320020009\\.nuget\\packages\\",
+        "outputPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.DatabaseAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\320020009\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\XamarinApp.Models.csproj": {
+                "projectPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\XamarinApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            },
+            "sqlite-net-sqlcipher": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\XamarinApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\XamarinApp.Models.csproj",
+        "projectName": "XamarinApp.Models",
+        "projectPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\XamarinApp.Models.csproj",
+        "packagesPath": "C:\\Users\\320020009\\.nuget\\packages\\",
+        "outputPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\320020009\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            },
+            "sqlite-net-sqlcipher": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp\\XamarinApp\\XamarinApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp\\XamarinApp\\XamarinApp.csproj",
+        "projectName": "XamarinApp",
+        "projectPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp\\XamarinApp\\XamarinApp.csproj",
+        "packagesPath": "C:\\Users\\320020009\\.nuget\\packages\\",
+        "outputPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp\\XamarinApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\320020009\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.BusinessLogic\\XamarinApp.BusinessLogic.csproj": {
+                "projectPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.BusinessLogic\\XamarinApp.BusinessLogic.csproj"
+              },
+              "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\XamarinApp.Models.csproj": {
+                "projectPath": "D:\\Sample Projects\\Xamarin\\XamarinApp\\XamarinApp.Models\\XamarinApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

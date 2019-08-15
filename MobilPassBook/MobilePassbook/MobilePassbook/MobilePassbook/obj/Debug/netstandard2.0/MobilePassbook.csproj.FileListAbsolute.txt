@@ -1,0 +1,12 @@
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\bin\Debug\netstandard2.0\MobilePassbook.deps.json
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\bin\Debug\netstandard2.0\MobilePassbook.dll
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\bin\Debug\netstandard2.0\MobilePassbook.pdb
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\obj\Debug\netstandard2.0\MobilePassbook.csprojAssemblyReference.cache
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\obj\Debug\netstandard2.0\MobilePassbook.csproj.CoreCompileInputs.cache
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\obj\Debug\netstandard2.0\MobilePassbook.AssemblyInfoInputs.cache
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\obj\Debug\netstandard2.0\MobilePassbook.AssemblyInfo.cs
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\obj\Debug\netstandard2.0\MobilePassbook.dll
+D:\Sample Projects\MobilPassBook\MobilePassbook\MobilePassbook\MobilePassbook\obj\Debug\netstandard2.0\MobilePassbook.pdb

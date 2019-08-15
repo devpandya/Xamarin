@@ -1,0 +1,13 @@
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\bin\Debug\netstandard2.0\XamarinApp.DatabaseAccess.deps.json
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\bin\Debug\netstandard2.0\XamarinApp.DatabaseAccess.dll
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\obj\Debug\netstandard2.0\XamarinApp.DatabaseAccess.csprojAssemblyReference.cache
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\obj\Debug\netstandard2.0\XamarinApp.DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\obj\Debug\netstandard2.0\XamarinApp.DatabaseAccess.AssemblyInfoInputs.cache
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\obj\Debug\netstandard2.0\XamarinApp.DatabaseAccess.AssemblyInfo.cs
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\bin\Debug\netstandard2.0\XamarinApp.DatabaseAccess.pdb
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\bin\Debug\netstandard2.0\XamarinApp.Models.dll
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\bin\Debug\netstandard2.0\XamarinApp.Models.pdb
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\obj\Debug\netstandard2.0\XamarinApp.DatabaseAccess.csproj.CopyComplete
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\obj\Debug\netstandard2.0\XamarinApp.DatabaseAccess.dll
+D:\Sample Projects\Xamarin\XamarinApp\XamarinApp.DatabaseAccess\obj\Debug\netstandard2.0\XamarinApp.DatabaseAccess.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinApp.MainPage">
+    
+   <StackLayout Margin="20,20,20,0">
+        <Label  FontAttributes="Bold" 
+                HorizontalTextAlignment="Center" 
+                FontSize="Title" 
+                Text="Student Information"></Label>
+        <Entry  Placeholder="Name"
+                x:Name="txtName"/>
+        <Entry  Placeholder="Age"
+                 x:Name="txtAge"/>
+        <Entry  Placeholder="Class"
+                 x:Name="txtClass"/>
+        <Entry  Placeholder="Guardian Name"
+                 x:Name="txtGuardianName"/>
+        <Entry  Placeholder="School Name"
+                 x:Name="txtSchool"/>
+        <Entry  Placeholder="Total Fees"
+                 x:Name="txtFees"/>
+        <Entry  Placeholder="Balance Fees"
+                 x:Name="txtBalance"/>
+        <Button Text="Save" 
+                Margin="0,20,0,0"
+                x:Name="btnSave"
+                Clicked="BtnSave_Clicked"/>
+    </StackLayout>
+</ContentPage>
